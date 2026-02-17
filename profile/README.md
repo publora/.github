@@ -35,4 +35,9 @@ curl -X POST https://api.publora.com/api/v1/create-post \
 - [Website](https://publora.com) — pricing, features, sign up
 - [Dashboard](https://app.publora.com) — manage accounts and posts
 
-Part of [Creative Content Crafts](https://github.com/CCCrafts) · [Co.Actor](https://github.com/Co-Actor)
+### Our Products
+
+- **[Publora](https://publora.com)** — affordable API for scheduling and publishing social media posts across 10 platforms
+- **[Co.Actor](https://co.actor)** — the best AI service for creating authentic content for LinkedIn, Threads, and X. Turn your team into thought leaders at scale.
+
+Built by **[Creative Content Crafts, Inc.](https://cccrafts.ai)** · [GitHub](https://github.com/CCCrafts)
